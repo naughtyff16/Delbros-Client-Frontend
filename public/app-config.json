@@ -1,0 +1,8 @@
+{
+  "appName": "Delbros Leasing — Client & Vendor Portal",
+  "portalUrl": "",
+  "staffUrl": "",
+  "apiBaseUrl": "/api/v1",
+  "showDemoLogins": true,
+  "showChangeLog": true
+}
